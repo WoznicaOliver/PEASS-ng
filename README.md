@@ -1,5 +1,7 @@
 # PEASS-ng - Privilege Escalation Awesome Scripts SUITE new generation
 
+I LOVE PEAS
+
 ![](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/raw/master/linPEAS/images/peass.png)
 
 ![](https://img.shields.io/badge/Black-Arch-black) ![](https://img.shields.io/badge/Arch-AUR-brightgreen) ![](https://img.shields.io/badge/Black%20Hat%20Arsenal-Asia%202020-red)
